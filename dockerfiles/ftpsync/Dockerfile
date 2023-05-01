@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM debian:bookworm
 MAINTAINER Justin Wong <yuzhi.wang@tuna.tsinghua.edu.cn>
 
 RUN apt-get update && \

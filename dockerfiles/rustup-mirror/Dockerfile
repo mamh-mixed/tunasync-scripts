@@ -1,4 +1,4 @@
-FROM rust:buster
+FROM rust:bookworm
 MAINTAINER Jiajie Chen <jiegec@noc.ac.cn>
 
 RUN cargo install rustup-mirror
